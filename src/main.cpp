@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-    // Call function that returns the greeting
-    // cout << hello_message(); // LAB: UNCOMMENT THIS LINE
+    cout << hello_message();
     return 0;
 }
